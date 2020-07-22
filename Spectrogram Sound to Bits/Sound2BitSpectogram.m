@@ -1,6 +1,6 @@
 % *********************************************** %
 %               Mohamed Abou Samak                %
-%        Sound to bits in spectral from           %
+%           Sound to bits in spectogram           %
 % *********************************************** %
 
 clc
